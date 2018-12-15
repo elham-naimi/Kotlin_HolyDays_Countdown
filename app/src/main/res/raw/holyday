@@ -1,0 +1,66 @@
+{
+ "years":[  {
+    "year": 2018,
+    "holyDays": [
+      {
+        "holyDayName": "Naw-Rúz",
+        "holyDayWhen": "March212018180000"
+      },
+      {
+        "holyDayName": "First Day of Ridván",
+        "holyDayWhen": "April212018180000"
+      },
+      {
+        "holyDayName": "Ninth Day of Ridván",
+        "holyDayWhen": "April292018180000"
+      },
+      {
+        "holyDayName": "Twelth Day of Ridván",
+        "holyDayWhen": "May022018180000"
+      },
+      {
+        "holyDayName": "Declaration of The Báb",
+        "holyDayWhen": "May242018180000"
+      },
+      {
+        "holyDayName": "Ascension of Bahá’u’lláh",
+        "holyDayWhen": "May292018180000"
+      },
+      {
+        "holyDayName": "Commemoration of the Martyrdom of The Báb",
+        "holyDayWhen": "July102018180000"
+      },
+      {
+        "holyDayName": "Birth Anniversary of The Báb",
+        "holyDayWhen": "November092018180000"
+      },
+      {
+        "holyDayName": "Birth Anniversary of Bahá’u’lláh",
+        "holyDayWhen": "November102018180000"
+      },
+      {
+        "holyDayName": "Day of the Covenant",
+        "holyDayWhen": "November262018180000"
+      },
+      {
+        "holyDayName": "Ascension of ‘Abdu’l‑Bahá",
+        "holyDayWhen": "November282018180000"
+      }
+    ]
+  },
+
+   {
+     "year": 2019,
+     "holyDays": [
+       {
+         "holyDayName": "Naw-Rúz",
+         "holyDayWhen": "March212018180000"
+       },
+       {
+         "holyDayName": "First Day of Ridván",
+         "holyDayWhen": "April212018180000"
+       }
+     ]
+   }
+ ]
+}

@@ -1,11 +1,12 @@
-package com.elna.ui
+package com.elna.kotlinfragment
 
 import android.os.Bundle
 import android.support.v4.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import com.elna.kotlinfragment.R
+import com.elna.model.HolyDay
+import kotlinx.android.synthetic.main.activity_item_detail.*
 import kotlinx.android.synthetic.main.item_detail.view.*
 
 /**
